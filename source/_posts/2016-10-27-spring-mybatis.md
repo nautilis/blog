@@ -2,6 +2,7 @@
 layout: post
 title: "Intellij整合spring跟mybatis，以及mapper开发方式的小坑"
 categories: 教程
+date: 2016-10-27 11:45:29
 tags: Java
 commemts: true
 
