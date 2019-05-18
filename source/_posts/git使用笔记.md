@@ -1,4 +1,5 @@
 ---
+layout: post
 title: git使用笔记
 date: 2019-05-18 12:02:51
 categories: 工具&技巧 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Vim使用笔记
 date: 2019-05-18 12:01:54
 categories: 工具&技巧 

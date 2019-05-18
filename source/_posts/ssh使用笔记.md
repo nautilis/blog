@@ -1,4 +1,5 @@
 ---
+layout: post
 title: ssh使用笔记
 date: 2019-05-18 12:03:07
 categories: 工具&技巧 
